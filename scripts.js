@@ -85,24 +85,9 @@ const bookmarks = [
     bookmarks: [
       { id: "rRbHUOvxza5L5q8B", label: "pixlrx", url: "https://pixlr.com/x/" },
       {
-        id: "FZKYdIZcRGPDt45z",
-        label: "image enlarger",
-        url: "https://bigjpg.com/en",
-      },
-      {
         id: "vsFAINyYxRKQRksW",
         label: "haikei",
         url: "https://app.haikei.app/",
-      },
-      {
-        id: "4gYAr64BkmZMAz74",
-        label: "css gradients",
-        url: "https://larsenwork.com/easing-gradients/",
-      },
-      {
-        id: "ZBrntOJhwq1g5TQl",
-        label: "icons",
-        url: "https://feathericons.com/",
       },
       {
         id: "597sfXrkV05W2iy3",
